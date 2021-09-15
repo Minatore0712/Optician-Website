@@ -1,0 +1,1 @@
+Zum Darstellen der Webseite lediglich die HTML Dateien im Browser: Google Chrome Version 81.0.4044.138 öffnen.

@@ -1,0 +1,17 @@
+footer {
+    margin-top: 100px;
+    background-color: black;
+    height: 100px;
+}
+
+a{
+  
+    padding-right: 10px;
+    color: white;
+    text-transform: uppercase;
+
+    &:hover{
+        text-decoration: none;
+        color: rgb(77, 77, 77);
+    }
+} 
